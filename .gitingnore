@@ -1,0 +1,17 @@
+# 컴파일 된 실행 파일 및 오브젝트 파일
+*.o
+*.a
+*.so
+thread_basic
+bounded_buffer
+mutex_cond_demo
+simple_server
+simple_client
+chat_server
+chat_client
+web_server
+gui_basic
+calculator
+
+# VSCode 설정
+.vscode/
